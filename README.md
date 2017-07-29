@@ -1,5 +1,6 @@
-# meetup_presentation_santarosa
-Material from R-Ladies Santa Rosa, La Pampa, Argentina
+# Material from R-Ladies Santa Rosa, La Pampa, Argentina
+# Material de R-Ladies Santa Rosa, La Pampa, Argentina
+
 
 ## Presentación ITES Santa Rosa
 22 de Junio 2017
