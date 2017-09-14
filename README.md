@@ -1,5 +1,4 @@
-# Material from R-Ladies Santa Rosa, La Pampa, Argentina
-# Material de R-Ladies Santa Rosa, La Pampa, Argentina
+# Material from R-Ladies Santa Rosa, La Pampa, Argentina - Material de R-Ladies Santa Rosa, La Pampa, Argentina
 
 ## Presentación Congreso AgroInformática Córdoba
 08 de Septiembre 2017
@@ -23,4 +22,7 @@
 ## Presencia en los medios
 
 2017
+- [Entrevista Radial en Agencia Telam](http://www.telam.com.ar/multimedia/audios/25448-inta--agroinformatica-una-herramienta-para-la-toma-de-decisiones/)
+- [Entrevista en Revista de Investigaciones Agropecuarias](http://ria.inta.gob.ar/contenido/el-aporte-silencioso-la-agroinformatica)
 - [Entrevista Radial en "El Faro: un programa de Ciencia"](https://github.com/rladies/meetup_presentation_santarosa/blob/master/R-Ladies-Entrevista-ElFaro.mp3)
+
