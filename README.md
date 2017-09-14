@@ -1,6 +1,10 @@
 # Material from R-Ladies Santa Rosa, La Pampa, Argentina
 # Material de R-Ladies Santa Rosa, La Pampa, Argentina
 
+## Presentación Congreso AgroInformática Córdoba
+08 de Septiembre 2017
+
+[AgroInformática y R-Ladies](https://github.com/rladies/meetup_presentation_santarosa/blob/master/RLadies_AgroInformatica.pdf)
 
 ## Presentación ITES Santa Rosa
 22 de Junio 2017
@@ -17,3 +21,6 @@
 ## Presentación INTA Anguil
 
 ## Presencia en los medios
+
+2017
+- [Entrevista Radial en "El Faro: un programa de Ciencia"](https://github.com/rladies/meetup_presentation_santarosa/blob/master/R-Ladies-Entrevista-ElFaro.mp3)
