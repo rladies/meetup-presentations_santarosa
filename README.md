@@ -32,7 +32,7 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ### 2017
 
-- [Entrevista Radial en "La mañana de todos". Radio Nacional, Santa Rosa] (https://inta.gob.ar/audios/entrevista-a-lic-en-sistemas-de-informacion-yanina-bellini-investigadora-de-estacion-experimental-de-inta-anguil-agroinformatica-el-uso-de-la-ciencia-de-los-datos-aplicada-al-sector-agro-para)
+- [Entrevista Radial en "La mañana de todos". Radio Nacional, Santa Rosa](https://inta.gob.ar/audios/entrevista-a-lic-en-sistemas-de-informacion-yanina-bellini-investigadora-de-estacion-experimental-de-inta-anguil-agroinformatica-el-uso-de-la-ciencia-de-los-datos-aplicada-al-sector-agro-para)
 - [Entrevista Radial en Agencia Telam](http://www.telam.com.ar/multimedia/audios/25448-inta--agroinformatica-una-herramienta-para-la-toma-de-decisiones/)
 - [Entrevista en Revista de Investigaciones Agropecuarias](http://ria.inta.gob.ar/contenido/el-aporte-silencioso-la-agroinformatica)
 - [Entrevista Radial en "El Faro: un programa de Ciencia". Radio Noticias, Santa Rosa](https://github.com/rladies/meetup_presentation_santarosa/blob/master/R-Ladies-Entrevista-ElFaro.mp3)
