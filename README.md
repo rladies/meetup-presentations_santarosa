@@ -6,6 +6,11 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ## Eventos pasados - Past events
 
+### Presentación Instituto Nacional de Tecnología Agropecuaria, La Pampa
+19 de abril de 2018
+
+[Charlando sobre brecha de género en STEM: AgroInformática y R-Ladies](https://github.com/rladies/meetup_presentation_santarosa/blob/master/RLadies_AgroInformatica_2018.pptx)
+
 ### Presentación Congreso AgroInformática Córdoba
 08 de septiembre 2017
 
