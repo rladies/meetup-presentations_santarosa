@@ -8,6 +8,7 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ### 10º PampaSeg
 23 de noviembre de 2018
+
 [R-Ladies: La comunidad de R en Santa Rosa](https://github.com/rladies/meetup-presentations_santarosa/blob/master/R-LadiesPampaSeg.pptx) 
 
 ### Presentación Instituto Nacional de Tecnología Agropecuaria, La Pampa
