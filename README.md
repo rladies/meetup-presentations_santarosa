@@ -40,6 +40,9 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ## Presencia en los medios - Media
 
+### 2019
+- [Entrevista Radial en "La mañana de todos". Radio Nacional, Santa Rosa]
+
 ### 2017
 
 - [Entrevista Radial en "La mañana de todos". Radio Nacional, Santa Rosa](https://inta.gob.ar/audios/entrevista-a-lic-en-sistemas-de-informacion-yanina-bellini-investigadora-de-estacion-experimental-de-inta-anguil-agroinformatica-el-uso-de-la-ciencia-de-los-datos-aplicada-al-sector-agro-para)
