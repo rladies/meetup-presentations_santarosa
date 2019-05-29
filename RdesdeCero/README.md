@@ -44,3 +44,5 @@ _¿Cómo puedo hacer diferentes cálculos sobre diferentes conjuntos de datos?
 
 _¿Cómo puedo generar reportes?
 ¿Cómo puedo integrar programas e informes?_
+
+**En cada carpeta (Clase 1 a Clase 4) se encuentra todo el material utilizado en el curso.**
