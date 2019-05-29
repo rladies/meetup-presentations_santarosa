@@ -2,9 +2,9 @@
 
 Este curso fue organizado por R-Ladies Santa Rosa en conjunto con la Estación Experimental Agropecuaria Anguil del Instituto Nacional de Tecnología Agropecuria.
 
-*Objetivo:* introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la visión de su uso, que no queda restringido a la estadística.
+**Objetivo:** introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la visión de su uso, que no queda restringido a la estadística.
 
-*Contenidos:*
+**Contenidos:**
 
 1.Introducción a R y RStudio
 
