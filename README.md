@@ -8,6 +8,7 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ### R desde Cero
 7, 14, 24 y 28 de Mayo de 2019
+
 [Material del curso R desde Cero](https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md)
 
 ### 10º PampaSeg
