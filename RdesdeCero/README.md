@@ -8,39 +8,39 @@ Este curso fue organizado por R-Ladies Santa Rosa en conjunto con la Estación E
 
 1.Introducción a R y RStudio
 
-¿Qué tiene de diferente RStudio con Excel?
+_¿Qué tiene de diferente RStudio con Excel?
 ¿Cómo orientarse en RStudio?
 ¿Cómo interactuar con R?
 ¿Qué son las variables?
 ¿Qué son las funciones?
 ¿Cómo administrar tu entorno?
-¿Cómo instalar paquetes?
+¿Cómo instalar paquetes?_
 
 2.Gestión de proyectos con RStudio
 
-¿Cómo pudo gestionar mis proyectos en R?
+_¿Cómo puedo gestionar mis proyectos en R?_
 
 3. Buscando ayuda
 
-¿Cómo puedo obtener ayuda en R?
+_¿Cómo puedo obtener ayuda en R?_
 
 4. Estructura de datos
 
-¿Cómo puedo leer datos en R?
+_¿Cómo puedo leer datos en R?
 ¿Cómo son los datos ordenados?
-¿Cómo son los datos limpios?
+¿Cómo son los datos limpios?_
 
 5. Creando gráficos
 
-¿Cómo puedo crear gráficos con calidad para publicación en R?
-¿Cómo puedo guardar gráficos y datos creados en R?
+_¿Cómo puedo crear gráficos con calidad para publicación en R?
+¿Cómo puedo guardar gráficos y datos creados en R?_
 
 6. Manipulación de datos
 
-¿Cómo puedo hacer diferentes cálculos sobre diferentes conjuntos de datos?
-¿Cómo puedo trabajar con subconjuntos de datos en R?
+_¿Cómo puedo hacer diferentes cálculos sobre diferentes conjuntos de datos?
+¿Cómo puedo trabajar con subconjuntos de datos en R?_
 
 7. Produciendo informes
 
-¿Cómo puedo generar reportes?
-¿Cómo puedo integrar programas e informes?
+_¿Cómo puedo generar reportes?
+¿Cómo puedo integrar programas e informes?_
