@@ -6,6 +6,11 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ## Eventos pasados - Past events
 
+### 11º PampaSeg 
+13 y 14 de Diciembre de 2019
+
+[Material del Taller de RMarkdown](https://github.com/rladies/meetup-presentations_santarosa/blob/master/TallerRMarkdown/README.md)
+
 ### R desde Cero
 7, 14, 24 y 28 de Mayo de 2019
 
