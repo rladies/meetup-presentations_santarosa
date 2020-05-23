@@ -16,27 +16,27 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 ### 11º PampaSeg 
 13 y 14 de Diciembre de 2019
 
-[Material del Taller de RMarkdown](https://github.com/rladies/meetup-presentations_santarosa/blob/master/TallerRMarkdown/README.md)
+* [Material del Taller de RMarkdown](https://github.com/rladies/meetup-presentations_santarosa/blob/master/TallerRMarkdown/README.md)
 
 ### R desde Cero
 7, 14, 24 y 28 de Mayo de 2019
 
-[Material del curso R desde Cero](https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md)
+* [Material del curso R desde Cero](https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md)
 
 ### 10º PampaSeg
 23 de noviembre de 2018
 
-[R-Ladies: La comunidad de R en Santa Rosa](https://github.com/rladies/meetup-presentations_santarosa/blob/master/R-LadiesPampaSeg.pptx) 
+* [R-Ladies: La comunidad de R en Santa Rosa](https://github.com/rladies/meetup-presentations_santarosa/blob/master/R-LadiesPampaSeg.pptx) 
 
 ### Presentación Instituto Nacional de Tecnología Agropecuaria, La Pampa
 19 de abril de 2018
 
-[Charlando sobre brecha de género en STEM: AgroInformática y R-Ladies](https://github.com/rladies/meetup_presentation_santarosa/blob/master/RLadies_AgroInformatica_2018.pptx)
+* [Charlando sobre brecha de género en STEM: AgroInformática y R-Ladies](https://github.com/rladies/meetup_presentation_santarosa/blob/master/RLadies_AgroInformatica_2018.pptx)
 
 ### Presentación Congreso AgroInformática Córdoba
 08 de septiembre 2017
 
-[AgroInformática y R-Ladies](https://github.com/rladies/meetup_presentation_santarosa/blob/master/RLadies_AgroInformatica.pdf)
+* [AgroInformática y R-Ladies](https://github.com/rladies/meetup_presentation_santarosa/blob/master/RLadies_AgroInformatica.pdf)
 
 ### Presentación ITES Santa Rosa
 22 de junio 2017
@@ -51,7 +51,7 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 ### Presentación Liceo Informático Santa Rosa
 15 de mayo de 2017
 
-[AgroTICs: llevando la informática al campo](https://github.com/rladies/meetup-presentations_santarosa/blob/master/AgroTICS.ppt)
+* [AgroTICs: llevando la informática al campo](https://github.com/rladies/meetup-presentations_santarosa/blob/master/AgroTICS.ppt)
 
 
 
