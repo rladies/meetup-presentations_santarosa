@@ -6,6 +6,12 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 
 ## Eventos pasados - Past events
 
+### Joint Meetup with R-Ladies Buenos Aires and R-Ladies General Pico
+18 de Mayo de 2020
+
+[Presentción Introducción a Git y como usarlo desde RStudio]()
+[Blog post con explicación sobre la parte práctica del taller](https://yabellini.netlify.app/es/post/githubconr/)
+
 ### 11º PampaSeg 
 13 y 14 de Diciembre de 2019
 
