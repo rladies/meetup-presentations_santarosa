@@ -9,7 +9,7 @@ R-Ladies Santa Rosa fue fundado en Abril de 2017.
 ### Joint Meetup with R-Ladies Buenos Aires and R-Ladies General Pico
 18 de Mayo de 2020
 
-* [Presentción Introducción a Git y como usarlo desde RStudio](https://github.com/rladies/meetup-presentations_santarosa/blob/master/Meetup%20Rladies%20-%20Git.pdf)
+* [Presentación Introducción a Git y como usarlo desde RStudio](https://github.com/rladies/meetup-presentations_santarosa/blob/master/Meetup%20Rladies%20-%20Git.pdf)
 
 * [Blog post con explicación sobre la parte práctica del taller](https://yabellini.netlify.app/es/post/githubconr/)
 
